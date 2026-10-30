@@ -1,3 +1,4 @@
+# Esto ha cambiado
 # CampusPulse — Proyecto base para Git from Zero to Hero
 
 **Estado del proyecto: Taller Git**

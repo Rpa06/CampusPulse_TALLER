@@ -1,3 +1,3 @@
 # Política inicial de calidad
-- No admitir consumos negativos.
+- Esto se ha borrado
 - Revisar los valores ausentes.
